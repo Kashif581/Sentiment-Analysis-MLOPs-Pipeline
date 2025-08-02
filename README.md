@@ -45,6 +45,9 @@ mlops/
 
 ## Setup and Installation
 
+
+
+
 ### 1. Create Virtual Environment
 
 ```bash
@@ -57,6 +60,7 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+<img width="993" height="152" alt="workflow" src="https://github.com/user-attachments/assets/de760b2a-75ba-417e-8558-913cffc17165" />
 
 ### 3. Start MLflow Server
 
