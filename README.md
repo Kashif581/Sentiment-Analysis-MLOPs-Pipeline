@@ -204,3 +204,7 @@ All visualizations are automatically logged to MLflow for easy comparison.
 ## License
 
 This project is open source and available under the MIT License.
+
+
+## <img width="988" height="635" alt="Mlops" src="https://github.com/user-attachments/assets/e381e926-f2d7-4570-9e06-878ddf9c63dd" />
+MLOPs
